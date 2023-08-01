@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsirh-hiko.github.io/hiko-1/sitemap.xml
